@@ -1,4 +1,3 @@
-# gatsby-starter-default
-The default Gatsby starter
+# phlogisticfugu-site
 
-Install this starter (assuming Gatsby is installed) by running from your CLI: gatsby new gatsby-example-site
+source for phlogisticfugu.github.io
